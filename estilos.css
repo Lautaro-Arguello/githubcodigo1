@@ -1,0 +1,362 @@
+*{
+    background-color: #bbb;
+    flex-direction: column;
+    margin: 0em;
+    padding: 0em;
+}
+
+.body1{
+    margin: auto;
+    padding: none;
+
+
+}
+
+.body-1{
+    padding: 0em;
+    margin: 0.1em;
+    background-color: grey;
+    display: inline;
+    margin: NONE;
+}
+
+.header{
+    background-color: black;
+    margin: none;     
+    line-height: 1em ;
+    padding: 0.1em;
+    border-radius: 0px;
+
+}
+
+@media only screen and (max-width: 450px){
+body {
+    display: block;
+    width: 400px;
+}
+
+
+}
+
+.div-1{
+    text-align: center;
+    display: block;
+    padding: 0em;
+    margin: 0em;
+}
+
+.div-1-2 {
+    line-height: 0em;
+    padding: 0em;
+    margin: 0em;
+}
+
+.titulo-1 {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;
+    line-height: 2em;
+    margin: 0em;
+    display: block;
+}
+
+.titulo-2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center ;
+    background-color: grey;
+    margin: none;
+    line-height: 2em;
+}
+
+.subtitulo-1{
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    display: block;
+    margin: 0em;
+    padding: 2em;
+    text-align: center;
+    line-height: 2em;
+}
+
+.div-3{
+    display: inline block;
+    flex-direction: row;
+    text-align: center;
+    padding: none;
+    margin:  auto;
+    line-height: 0em;
+    block-size: 50%;
+    width: 20%;
+    height: 20%;
+    
+
+
+
+    
+}
+
+
+
+.li-3{
+    display: block;
+    text-align: left;
+       
+}
+
+.p-1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: none;     
+    line-height: 1em; 
+    margin: 2em;
+    padding: 0em;
+}
+
+.p-2{
+    display: flex;
+    text-align: center;   
+    background-color: rgba(0, 0, 0, .5);
+    color: black;
+    line-height: 1em;
+    margin: none;
+    padding: 10px;
+}
+
+.p-3{
+    display: flex;
+    text-align: center;   
+    background-color: rgba(0, 0, 0, .5);
+    color: black;
+    line-height: 1em;
+    margin: none;
+    padding: 10px;
+}
+
+.p-4{
+    display: flex;
+    text-align: center;   
+    background-color: rgba(0, 0, 0, .5);
+    color: black;
+    line-height: 1em;
+    margin: none;
+    padding: 10px;
+}
+
+.pie-bastian{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.div-contacto{
+    text-align: center;
+    display: block;
+}
+
+.p-info-contact{    
+    text-align: center;
+    display: inline;
+    margin: 0em;
+    padding: 0em;
+}
+
+.p-nuestrapag{
+   text-align: center;
+   display: inline;  
+   padding-inline-start: 0em;
+   margin: 0em;
+}
+
+estilo.css, img {
+    display: inline;
+    padding: 1em;
+    margin: 1em;
+}
+
+
+
+
+/*links de sobre nosotros, nuestros vehiculos, nuestra direccion */
+
+.link-1 {
+    padding: 0.5em;
+    margin: 0.5em;
+    background-color:black;
+    color: grey;
+    border-radius: 10px;
+    display: inline;
+}
+
+.link-1:hover{
+    background: darkslategrey;
+    
+}
+
+.link-2{
+    padding: 0.5em;
+    margin: 0.5em;  
+    background-color: black;
+    color: grey;
+    border-radius: 10px;
+    display: inline block;
+}
+
+.link-2:hover{
+    background: darkslategrey;
+}
+
+.link-3{
+    padding: 0.5em;
+    margin: 0.5em;
+    background-color: black;
+    color: grey;
+    border-radius: 10px;
+    display: inline block;
+}
+
+.link-3:hover{
+    background: darkslategrey;
+}
+
+.usados-seleccionados{
+    display: inline block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 1%;
+    margin: 1%;
+}
+
+
+.mas.info{
+    color: black;
+}
+
+.img-parrafo-1{
+    display: inline block;    
+    padding: 0em;
+    margin: 0em;
+    text-align: center;
+}
+.img-parrafo-2{
+    display: inline block;
+    padding: 0em;
+    margin: 0em;
+    text-align: center;
+    
+}
+
+.img-parrafo-3{
+    display: inline block;
+    padding: 0em;
+    margin: 0em;
+    text-align: center;
+}
+
+.div-full-img{
+    display: inline block;
+    text-align: center;
+}
+
+.img-1{
+    display: inline ;
+    padding: 0.0em;
+    margin: 0.1em;
+    border: 2px solid black;
+    width: 20em;
+    height: 25em;
+}
+
+.img-2{
+    display: inline ;
+    padding: 0.0em;
+    margin: 0.1em;
+    border: 2px solid black;
+    width: 20em;
+    height: 25em;
+}
+
+.img-3{
+    display: inline ;
+    padding: 0.0em;
+    margin: 0.1em;
+    border: 2px solid black;
+    width: 20em;
+    height: 25em;   
+}
+
+.div-imagen-1{
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;   
+}
+
+.div-imagen-2{
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;    
+    text-align: center;   
+}
+
+.div-imagen-3{
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;   
+}
+
+.instagram-ultimo{
+    background-color: none;
+    border-radius: 2px ;
+}
+
+
+.h4-div-img-1{
+    padding: 0.05em;
+    margin: 0.05em;
+}
+.h4-div-img-2{
+    padding: 0.05em;
+    margin: 0.05em;
+}
+
+.h4-div-img-3{
+    padding: 0.05em;
+    margin: 0.05em;
+}
+
+
+.ul-1-1{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    width: 50px;
+    height: 20px;
+
+}
+
+.ul-links{
+    margin: 0em;
+    padding: 0em;
+}
+
+
+.h3.usados.seleccionados{
+    
+}
+
+.div-enlases{
+    display: inline ;
+    align-content: center;
+    width: 80%;
+    height: 80%; 
+    margin: 0% 30% 0% 30%;
+
+
+}
+
